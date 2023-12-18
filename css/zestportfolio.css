@@ -164,7 +164,8 @@ button:hover .comment {
     width: 250px;
 }
 
-.eventsbutton {  background-image: url("../images/Zevents.jpg");
+.eventsbutton {  
+  background-image: url("../images/Zevents.jpg");
   background-size:cover; s; /* This property ensures that the background image covers the entire container */
     background-position: center; /* This property centers the background image */
     background-repeat: no-repeat;
